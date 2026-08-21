@@ -1,0 +1,47 @@
+.cartao {
+  display: flex;
+  width: 500px;
+  border: 1px solid black;
+  border-radius: 10px;
+  overflow: hidden;
+  background-color: white;
+}
+
+.cabecalho {
+  width: 150px;
+  padding: 15px;
+  text-align: center;
+  border-right: 1px solid black;
+  box-sizing: border-box;
+}
+
+.cabecalho img {
+  width: 90px;
+  height: 90px;
+  border-radius: 10px;
+}
+
+.cabecalho h2 {
+  font-size: 16px;
+  margin: 10px 0 5px;
+}
+
+.cabecalho p {
+  font-size: 13px;
+  margin: 0;
+}
+
+.informacoes {
+  flex: 1;
+  padding: 15px;
+}
+
+.informacoes p {
+  margin: 7px 0;
+  font-size: 13px;
+}
+
+.informacoes strong {
+  display: inline-block;
+  width: 65px;
+}
