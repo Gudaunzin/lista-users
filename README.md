@@ -1,5 +1,5 @@
 # React + TypeScript + Vite
-<img src="[Captura de tela 2026-08-21 1122](https://github.com/Gudaunzin/lista-users/blob/3996725bbfbfb513fe8c1abf93416cc8f924952a/Captura%20de%20tela%202026-08-21%20112242.png)">
+!Captura de tela 2026-08-21 1122](https://github.com/Gudaunzin/lista-users/blob/3996725bbfbfb513fe8c1abf93416cc8f924952a/Captura%20de%20tela%202026-08-21%20112242.png)
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
 
 Currently, two official plugins are available:
